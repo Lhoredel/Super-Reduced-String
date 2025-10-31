@@ -1,1 +1,2 @@
 # Super-Reduced-String
+This code solves the Super Reduced String problem by eliminating adjacent duplicate characters through iterative reduction. It uses a stack to process characters, removing pairs when identical adjacent characters are detected during traversal. The algorithm builds the final reduced string by reconstructing from the stack, returning "Empty String" if all characters are eliminated.
